@@ -10,7 +10,7 @@
 
 ### Attention Map
 
-| Single | Multi |
+| Attetion Network | Multi Attetion Network |
 | ----- | --- |
 |![out](https://user-images.githubusercontent.com/36182771/78420196-eef64180-7687-11ea-88f5-cf08079873c3.png)|![out_multi](https://user-images.githubusercontent.com/36182771/78468337-10bbfb00-7752-11ea-8b57-8e2f11a2f074.png)|
 
